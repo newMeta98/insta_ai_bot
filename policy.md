@@ -1,4 +1,4 @@
-# Privacy Policy for [Your Bot Name]
+# Privacy Policy for insta_ai_bot
 
 **Last Updated:** [Date]
 
